@@ -7,7 +7,7 @@ a full positive number, less than 25.
 
 # Development:
 
-If you don't want to try the webpage, you only have to click on this [link ](https://meriambs.github.io/Triangle/).
+if you don't want to download the webpage, you only have to click on this [link ](https://meriambs.github.io/Triangle/).
 
 If you are more interested in knowing the code and maybe add new things you can clone it using those steps:
 
